@@ -1,3 +1,4 @@
-let titleElement = document.getElementById("title");
+let descriptions = document.querySelectorAll("p");
 
-console.log(titleElement);
+console.log(description );
+
